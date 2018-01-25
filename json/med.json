@@ -1,5 +1,6 @@
 {
     "somemum": 2003,
     "sometext": "medicines_section",
-    "somehtml": "<p>Some html</p>"
+    "somehtml": "<p>Some html</p>",
+    "anothernum": 2001
 }
