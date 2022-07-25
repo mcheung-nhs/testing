@@ -15237,6 +15237,10 @@ img {
     margin-right:10px
 }
 
+.nhsuk-button--beta-login:active {
+    background-color:#002f5c;
+}
+
 .nhsuk-button--beta-login:hover {
     background-color:#003f7b;
 }
